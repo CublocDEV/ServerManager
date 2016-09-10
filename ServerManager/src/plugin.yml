@@ -1,0 +1,4 @@
+main: com.cubloc.servermanager.ServerManager
+name: ServerManager
+author: Cubloc
+version: 1.0
